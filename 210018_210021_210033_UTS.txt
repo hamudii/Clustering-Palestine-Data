@@ -1,0 +1,9 @@
+UTS DATA MINING
+
+Judul : 
+Clustering Analysis of Palestine-Related Twitter Data: Unveiling Sentiment and Insights
+
+Anggota : 
+Mohammad Sulaeman : 140810210033
+Mohammad Zidan Yohanza : 140810210021
+Lutfi Ramadhan Yudiansyah : 140810210018
